@@ -11,7 +11,7 @@
       1. Model summary for model that uses closing prices as feature :
          !['Summary'](close_summary.jpg)
       2. Model summary for model that uses sentiment score as feature :
-         !['Summary'](fng.summary.jpg)
+         !['Summary'](fng_summary.jpg)
    4. After setting up the model the next step is to train it with the hyperparameters that were set according to the instructions provided.
    5. The next step is to make predictions after evaluating the eventual loss output after the last epoch.
    6. Following are the comparitive results of the two models :
