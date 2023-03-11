@@ -1,5 +1,5 @@
 ## Deep-Learning
-1. In this assignment the models were to be setup to forecast prices of bitcoin by using past closing prices and sentiments as feature but seperately.
+1. In this project the models were to be setup to forecast prices of bitcoin by using past closing prices and sentiments as feature but seperately.
 2. The standard procedure was followed which is enumerated below:  
    1. Importing necessary libraries and dependencies.
    2. Data processing which includes the following:
